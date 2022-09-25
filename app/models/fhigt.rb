@@ -1,0 +1,2 @@
+class Fhigt < ApplicationRecord
+end
